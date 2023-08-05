@@ -1,6 +1,7 @@
-print("Que paso")
-x = int(input("ingrese un Numero: "))
-print(x)
+print("******Bienvenido al programa*****")
+print("\n")
+x = int(input("Ingrese un numero: "))
+y = int(input("Ingrese otro numero: "))
 
-r = int(input("Ingrese otro Numero: "))
-print(r)
+suma = x + y
+print("La suma es: ", suma)
